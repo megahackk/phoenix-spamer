@@ -10,7 +10,7 @@ except:
 try:
 	print(i)
 except:
-	i=" "
+	i="[Программа запущена]"
 else:
 	pass
 
@@ -174,6 +174,7 @@ def main():
 	print("!!!"+i+"!!!")
 	print(" ")
 	print("Phoenix spamer by vk_api")
+	print("Version-2.0")
 	print("1;{[Вводы токена}]")
 	print("2;{[Ввод номерa}]")
 	print("3;{[Установка таймера}]")
