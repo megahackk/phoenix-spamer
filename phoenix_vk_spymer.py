@@ -171,7 +171,8 @@ def upd():
 def main():
 	global i
 	os.system('cls' if os.name=='nt' else 'clear')
-	print(i)
+	print("!!!"+i+"!!!")
+	print(" ")
 	print("Phoenix spamer by vk_api")
 	print("1;{[Вводы токена}]")
 	print("2;{[Ввод номерa}]")
