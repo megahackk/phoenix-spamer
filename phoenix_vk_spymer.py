@@ -3,7 +3,7 @@ try:
 	import os
 	import vk_api
 except:
-	i=print("[Для работы нужно установить модули]")
+	i="[Для работы нужно установить модули]"
 	pass
 
 
